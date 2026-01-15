@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniChallengeTwoToFourRefactored")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff31c00ee2889d30ce67a8223f178fbcb9fac50e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniChallengeTwoToFourRefactored")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniChallengeTwoToFourRefactored")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

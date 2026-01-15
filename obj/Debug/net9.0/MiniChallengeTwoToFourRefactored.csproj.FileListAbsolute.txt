@@ -19,6 +19,7 @@
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/MiniChallengeTwoToFourRefactored.csproj.CoreCompileInputs.cache
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/MiniChallengeTwoToFourRefactored.MvcApplicationPartsAssemblyInfo.cs
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/MiniChallengeTwoToFourRefactored.MvcApplicationPartsAssemblyInfo.cache
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/MiniChallengeTwoToFourRefactored.sourcelink.json
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/MiniChallengeTwoToFourRefactored/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
